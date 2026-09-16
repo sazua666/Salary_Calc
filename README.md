@@ -13,6 +13,10 @@ A production-ready, responsive full-stack web application for calculating global
 ## Features
 
 - **Global Support:** Calculates taxes for India (New & Old Regimes), USA (Federal), and UK.
+  
+![Salary Calculator](image.png)
+
+- 
 - **Modular Tax Engine:** Pure, deterministic tax calculation logic isolated from UI.
 - **Real-Time Presence:** Features a live visitor count that updates in real-time across connected clients using WebSockets.
 - **Modern UI:** "Precision Glass & Deep Space" aesthetic with dark/light themes, smooth transitions, and instant feedback.
