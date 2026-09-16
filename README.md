@@ -4,7 +4,7 @@ An easy-to-use tool that assists in calculating the take-home annual salary, tak
 
 https://salary-calc-v28l.onrender.com/
 
-image.png
+![Salary Calculator](image.png)
 
 
 
