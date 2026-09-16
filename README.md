@@ -1,9 +1,11 @@
 # Salary_Calc
 An easy-to-use tool that assists in calculating the take-home annual salary, take-home monthly salary, total annual deductions, total monthly deductions, etc., of an individual.
 
-# SalaryCalc
 
 https://salary-calc-v28l.onrender.com/
+
+![Uploading image.png…]()
+
 
 
 A production-ready, responsive full-stack web application for calculating global salary, CTC, taxes, deductions, and take-home pay.
